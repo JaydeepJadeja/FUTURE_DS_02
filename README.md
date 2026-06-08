@@ -1,4 +1,5 @@
 # 📊 Customer Retention & Churn Analysis Dashboard
+<img width="1536" height="1024" alt="e Jun 8, 2026, 07_05_47 PM" src="https://github.com/user-attachments/assets/0a235e6a-1141-4e51-84f7-5be99e3c4bb7" />
 
 ## 📌 Project Overview
 
